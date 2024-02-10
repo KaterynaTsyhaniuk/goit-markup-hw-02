@@ -84,6 +84,7 @@ img {
 }
 
 .first-section-button {
+  font-family: inherit;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -99,9 +100,7 @@ img {
 }
 
 /* ========= second section ========= */
-.second-section {
-  background-color: #ffffff;
-}
+
 .page-title-second {
   font-weight: 700;
   font-size: 36px;
@@ -157,9 +156,7 @@ img {
 }
 
 /* ========= fourth section ========= */
-.fourth-section {
-  background-color: #ffffff;
-}
+
 .page-title-portfolio {
   font-weight: 700;
   font-size: 36px;
