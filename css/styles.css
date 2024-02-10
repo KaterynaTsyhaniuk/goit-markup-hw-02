@@ -92,8 +92,8 @@ img {
   letter-spacing: 0.04em;
   color: #ffffff;
   text-align: center;
-  cursor: pointer;
 }
+
 .first-section-button:hover,
 :focus {
   background-color: #404bbf;
@@ -133,7 +133,7 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  text-align: center;
+
   color: #2e2f42;
 }
 
@@ -163,7 +163,7 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  text-align: center;
+
   color: #2e2f42;
 }
 
