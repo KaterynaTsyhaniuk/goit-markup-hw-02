@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
+  background-color: #ffffff;
 }
 
 ol,
@@ -50,8 +51,10 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.address-info {
+.address-menu {
   font-style: normal;
+}
+.address-info {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -79,8 +82,8 @@ img {
   text-align: center;
   color: #ffffff;
 }
+
 .first-section-button {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -99,7 +102,7 @@ img {
 .second-section {
   background-color: #ffffff;
 }
-.page-title-benefits {
+.page-title-second {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.1;
@@ -108,53 +111,14 @@ img {
   text-align: center;
   color: #2e2f42;
 }
-.page-title-benefits-strategy {
+.page-title-benefits {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.text-benefits-strategy {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.page-title-benefits-punctuality {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.text-benefits-punctuality {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.page-title-benefits-diligence {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.text-benefits-diligence {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.page-title-benefits-technologies {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.text-benefits-technologies {
+.text-benefits {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -224,7 +188,7 @@ img {
 }
 
 /* ========= footer ========= */
-footer {
+.lower-box {
   background-color: #2e2f42;
 }
 
